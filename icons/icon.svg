@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Isola Bill placeholder icon</title>
+  <rect width="512" height="512" rx="112" fill="#00685f"/>
+  <path d="M144 139c0-18 15-33 33-33h158c18 0 33 15 33 33v234c0 18-15 33-33 33H177c-18 0-33-15-33-33V139Z" fill="#f4fffc"/>
+  <path d="M195 178h122M195 230h122M195 282h75" stroke="#00685f" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="320" cy="324" r="34" fill="#6bd8cb"/>
+</svg>

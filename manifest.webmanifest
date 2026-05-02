@@ -1,0 +1,18 @@
+{
+  "name": "Isola Bill",
+  "short_name": "Isola Bill",
+  "description": "PWA mock per la gestione delle bollette del Condominio Isola.",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5faf8",
+  "theme_color": "#00685f",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
